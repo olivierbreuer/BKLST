@@ -16,8 +16,15 @@ I use it personally with the pi-hole project.
 This list is free for home and personal use only. 
 If you need to add or use it on a product you sell please contact me first.
 
-
 At the end the goal is to automatically generate different lists to be able to auto update different products. 
 
+# The list 
+
+But for now there is one and only one single list : BKLST.txt
+
+Please let me know if you encounter any problem or if you simply use the list !
+Any questions ? I will be glad to help. 
+
+olivier
 
 
