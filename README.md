@@ -1,11 +1,10 @@
 # BKLST
-Compilation of various porn blacklists
-
 As every parent, I m afraid about what my kid can find on the Internet, specially on porn websites. 
 I have checked different solutions and after a huge amout on research I have decided to create one myself. 
 
-This list is mainly based on different existing lists based on what we can found on internet. 
-It is also based on my own applications to grab urls and domains out of different search engines.
+This list is a complilation of 2 things :
+  1. Use of different existing blocking lists found on internet. 
+  2. Based on my own applications to grab urls and domains out of different search engines.
 
 I can't guarantee that this list is complete but it is huge enough to protect correctly your home.
 This list is auto updated.  
