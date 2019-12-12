@@ -19,7 +19,7 @@ At the end the goal is to automatically generate different lists to be able to a
 
 # The list 
 
-But for now there is one and only one single list : BKLST.txt
+But for now there is one and only one single list. Last update is based on the date of the file. 
 
 Please let me know if you encounter any problem or if you simply use the list !
 Any questions ? I will be glad to help. 
